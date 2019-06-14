@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{027D979B-5E10-4DFF-826E-B97E7E0AAB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{CAAE7C1E-718B-4A3D-9739-13BE848B792F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027D979B-5E10-4DFF-826E-B97E7E0AAB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027D979B-5E10-4DFF-826E-B97E7E0AAB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027D979B-5E10-4DFF-826E-B97E7E0AAB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027D979B-5E10-4DFF-826E-B97E7E0AAB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAE7C1E-718B-4A3D-9739-13BE848B792F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAE7C1E-718B-4A3D-9739-13BE848B792F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAE7C1E-718B-4A3D-9739-13BE848B792F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAE7C1E-718B-4A3D-9739-13BE848B792F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350DACE9-68E1-4062-A42F-A14DF8E619D8}
+	EndGlobalSection
+EndGlobal
